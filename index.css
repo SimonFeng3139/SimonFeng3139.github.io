@@ -23,7 +23,6 @@ nav{
 ul{
 	list-style: none;
 	display: inline;
-	font-size: 12px;
 }
 ul li{
 	display: inline;
@@ -42,8 +41,3 @@ h5{
 color: white
 }
 
-a{
-font-family: 'Raleway', sans-serif;}
-div{
-
-}
